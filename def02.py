@@ -1,0 +1,1 @@
+#Create a function called main that returns integer data type.
